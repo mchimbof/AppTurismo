@@ -1,2 +1,2 @@
-![Screenshot_20231227_051500](https://github.com/mchimbof/AppTurismo/assets/26042473/6dd35cda-ea03-42c6-bce7-a3a61a00d143)
-![Screenshot_20231227_051534](https://github.com/mchimbof/AppTurismo/assets/26042473/c9be6a71-930d-4272-b921-636d99435a7e)
+![Screenshot_20231227_051500](https://github.com/mchimbof/AppTurismo/assets/26042473/1b3f26b0-4158-4883-a5be-75266bf453e5)
+![Screenshot_20231227_051534](https://github.com/mchimbof/AppTurismo/assets/26042473/be347ac6-4b5d-4d1f-b851-824b46ff68b3)
